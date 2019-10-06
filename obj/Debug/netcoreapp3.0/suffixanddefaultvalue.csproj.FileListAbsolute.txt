@@ -1,0 +1,11 @@
+C:\csharp\ar\suffixanddefaultvalue\obj\Debug\netcoreapp3.0\suffixanddefaultvalue.csprojAssemblyReference.cache
+C:\csharp\ar\suffixanddefaultvalue\obj\Debug\netcoreapp3.0\suffixanddefaultvalue.AssemblyInfoInputs.cache
+C:\csharp\ar\suffixanddefaultvalue\obj\Debug\netcoreapp3.0\suffixanddefaultvalue.AssemblyInfo.cs
+C:\csharp\ar\suffixanddefaultvalue\bin\Debug\netcoreapp3.0\suffixanddefaultvalue.exe
+C:\csharp\ar\suffixanddefaultvalue\bin\Debug\netcoreapp3.0\suffixanddefaultvalue.deps.json
+C:\csharp\ar\suffixanddefaultvalue\bin\Debug\netcoreapp3.0\suffixanddefaultvalue.runtimeconfig.json
+C:\csharp\ar\suffixanddefaultvalue\bin\Debug\netcoreapp3.0\suffixanddefaultvalue.runtimeconfig.dev.json
+C:\csharp\ar\suffixanddefaultvalue\bin\Debug\netcoreapp3.0\suffixanddefaultvalue.dll
+C:\csharp\ar\suffixanddefaultvalue\bin\Debug\netcoreapp3.0\suffixanddefaultvalue.pdb
+C:\csharp\ar\suffixanddefaultvalue\obj\Debug\netcoreapp3.0\suffixanddefaultvalue.dll
+C:\csharp\ar\suffixanddefaultvalue\obj\Debug\netcoreapp3.0\suffixanddefaultvalue.pdb
